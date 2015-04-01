@@ -27,3 +27,5 @@ ViewBeans : Regroupe les controlleures de chaque pages.(ManagedBeans)
 ### Contribution :
 
 Tous le monde est inviter a contribuer a ce projets, pour collaborer crée un pull request.
+
+https://help.github.com/articles/creating-a-pull-request/
