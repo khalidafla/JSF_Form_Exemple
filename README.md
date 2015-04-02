@@ -6,9 +6,13 @@ Formulaire basic avec validation des champs et une template basic aussi mais bie
 
 - Télécharger le projet https://github.com/khalidafla/JSF_Form_Exemple/archive/master.zip (Button Download Zip)
 
-- importer tous le projets.
+- Dézipper et enlever le suffix master du nom de dossier
 
-- aller dans les propriétés du projet et vérifiée que le framework JSF est inclut si non ajouter le.
+- Coller le dossier dans votre workspace
+
+- OUvrer votre IDE : ouvrir projet -> spécifier le chemin -> OK
+
+- Aller dans les propriétés du projet et vérifiée que le framework JSF est inclut si non ajouter le.
 
 ### Structure du projet :
 
