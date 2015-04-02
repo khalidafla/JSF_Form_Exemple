@@ -14,7 +14,7 @@ Formulaire basic avec validation des champs et une template basic aussi mais bie
 
 - Aller dans les propriétés du projet et vérifiée que le framework JSF est inclut si non ajouter le.
 
-* Si Netbeans le reconait pas en tant qu'un projets maven, vous devez crée un projets maven pour activer les fonctionalités maven: NewProjet -> catégorie : maven, projet : web application > next.. > finish
+* Si Netbeans le reconait pas en tant qu'un projets maven, vous devez crée un projets maven pour activer les fonctionalités maven: NewProjet -> catégorie : maven, projet : java application > next.. > finish
 
 Une fois crée essayer d'importer le projet.
 
