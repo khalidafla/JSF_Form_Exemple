@@ -1,14 +1,14 @@
 # Exemple Formulaire (JSF + BootStrap 3)
 
-Formulaire basic avec validation des champs.
+Formulaire basic avec validation des champs et une template basic aussi mais bien structurée.
 
 ### Comment puis-je importer ce projet dans NetBeans ?
 
-Aller dans :
+- Télécharger le projet https://github.com/khalidafla/JSF_Form_Exemple/archive/master.zip (Button Download Zip)
 
-Team -> Git -> Clone 
+- importer tous le projets.
 
-puis entrer l'url suivantes : https://github.com/khalidafla/JSF_Form_Exemple.git
+- aller dans les propriétés du projet et vérifiée que le framework JSF est inclut si non ajouter le.
 
 ### Structure du projet :
 
